@@ -1,5 +1,16 @@
 # PROJECT : Microsoft Excel Beginner class
 
+COURSE OUTLINE
+
+- Introduction to Data Analysis
+- Excel Functions 1(Numbers)
+- Excel Functions 2(Texts)
+- Excel Functions 3(Conditionals)
+- Excel Functions 4(Dates)
+- Excel functions 5(LOOKUPS)
+- Introduction to Pivot Table I
+- Pivot Table II
+
 ## Day one (21 - 04 - 2025) 
 
 Introduction to Data Analysis
