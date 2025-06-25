@@ -178,20 +178,121 @@ O - Outliers
     PROPER(text)
     PROPER(TRIM(text))
     LEFT(text, FIND(" ", text, 1))
+
+Excel file for the class : [Download here](https://github.com/user-attachments/files/20909715/Excel.Functions.2.-.Text-1.xlsx)
     
 **Note:** Nesting - Putting a function inside another function or performing multiple functions in one. Use ctrl E for flash fill. Concatenation is the technical term for joining texts and you can use the concatenate function or the cells directly together with Ampersand (&).
 
 ## DAY FOUR (28 - 04 - 2025)
 
-### Excel Functions 3(Conditionals)
+### Excel Functions 3 (Conditionals)
+
+Today, we had a technical hitch in the transmission from the facilitator's end and another facilitator, by name Mr Femi, had to come in his stead to take us through the class. We took a more closer look on the conditional function (IF). We also looked at other Logical functions like AND & OR.
+
+**IF function**
+
+It allows you to test a condition, return a value if it is true and return another if it is false. It is a logical function that tests two or more conditions.
+
+**OR function** 
+
+It returns TRUE if any of its arguments evaluate to TRUE, and returns FALSE if all of its arguments evaluate to FALSE.
+
+**AND function** 
+
+It returns TRUE if all its arguments evaluate to TRUE, and returns FALSE if one or more arguments evaluate to FALSE
+
+| Condition 1 | Condition 2 | AND | OR |
+| :---------: | :---------: | :---: | :---: |
+| True | True | True | True |
+| True | False | False | True |
+| False | True | False | True |
+| False | False | False | False |
+
+``` Microsoft Excel ```
+
+    IF(logical_test, value_if_true, [value_if_false])
+    OR(logical1, [logical2], ...)
+    AND(logical1, [logical2], ...)
+    
+Excel file for the class : 1. [Download here](https://github.com/user-attachments/files/20910393/IF.Function.xlsx)
+                           2. [Download here](https://github.com/user-attachments/files/20910420/Excel.Functions.3.-.Conditionals.xlsx)
 
 ## DAY FIVE (30 - 04 - 2025)
 
 ### Excel Functions 4(Dates)
 
+Today, We looked at the different functions associated with Dates. The following functions were treated.
+
+The TODAY function returns the serial number of the current date (shortcut - ctrl :)
+
+The Now function returens the serial number of the current date and time. (shortcut - ctrl : ctrl shft ;)
+
+The Text function converts a value to text in a specific number format
+
+| Format | Text  |
+| :---: | :----: |
+| mmm | Aug |
+| mmmm | August |
+| ddd | Wed |
+| dddd | Wednesday |
+
+The IS functions checks the specified value and returns TRUE or FALSE depending on the outcome.
+
+``` Microsoft Excel ```
+
+    Today()
+    Now()
+    Year(serial number) brings back year in serial number
+    Month(serial number) brings back month in serial number
+    TEXT(value, format_text) - TEXT(E8, "mmmm") brings back the month in text format
+    ISBLANK(value)
+    ISNUMBER(value)
+    ISTEXT(value)
+
+**Note:** A volatile function is a function that updates itself as time progresses. Excel only recognises two things; a text and a number, and also behind the serial numbers of date there is a number that excel recognises which is counted from 01/01/1900. Always work with the data formatting control on the ribbon interface according to what is needed. 
+
+Excel file for the class [Download here](https://github.com/user-attachments/files/20911208/Excel.Functions.4.-.Dates.xlsx)
+
 ## DAY SIX (01 - 05 - 2025)
 
 ### Excel functions 5(LOOKUPS)
+
+Today, we went further to consider the LOOKUPS functions.
+
+**VLOOKUP function - Vertical LOOKUP**
+
+We use VLOOKUP when you need to find things in a table or a range by row.
+
+In its simplest form, the VLOOKUP function says:
+
+VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
+
+**XLOOKUP function - eXtended LOOKUP**
+
+The XLOOKUP function searches a range or an array, and then returns the item corresponding to the first match it finds. If no match exists, then XLOOKUP can return the closest (approximate) match.
+
+**Cell referencing in Excel**
+
+- Relative referencing - Excel changes referencing accordigly as it moves.
+- Absolute referencing - referencing does not change (shortcut : F4 or the dollar sign "$" before and after the cell column in the formula written).
+- Column constant - column remains constant (shortcut : the dollar sign "$" before the cell column in the formula written).
+- Row constant - row remains constant (shortcut : the dollar sign "$" after the cell column in the formula written).
+
+| Referencing | Cell number |
+| :--------: | :--------: |
+| Relative | Y15 |
+| Absolute | $Y$15 |
+| Column constant | $Y15 |
+| Row constant | Y$15 |
+
+``` Microsoft Excel ```
+
+    VLOOKUP (lookup_value, table_array, col_index_num, [range_lookup])
+    XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode]) 
+
+Excel File for the class : [Download here}(https://github.com/user-attachments/files/20912580/Excel.Functions.5.-.LookUp.xlsx)
+
+**Note** :  XLOOKUP function, an improved version of VLOOKUP that works in any direction and returns exact matches by default, making it easier and more convenient to use than VLOOKUP.
 
 ## DAY SEVEN (05 - 05 - 2025)
 
