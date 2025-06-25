@@ -156,14 +156,14 @@ Text Extraction
     FIND(find_text, within_text, [start_num])
     SEARCH(find_text, within_text, [start_num])
 
-Data Cleaning 
+**Data Cleaning** 
 
 M - Missing values
 I - Inconsistent values
 D - Duplicate values
 O - Outliers
 
-Inconsistent Data
+**Inconsistent Data**
 
 | Function | Inconsistency |
 | :-------------: | :-------- |
@@ -172,8 +172,6 @@ Inconsistent Data
 | LOWER | Names written in Lower case |
 | PROPER | Names properly entered |
 
-Nesting : Putting a function inside another function or performing multiple functions in one.
-
     TRIM(text)
     UPPER(text)
     LOWER(text)
@@ -181,7 +179,7 @@ Nesting : Putting a function inside another function or performing multiple func
     PROPER(TRIM(text))
     LEFT(text, FIND(" ", text, 1))
     
-**Note:** Use ctrl E for flash fill. Concatenation is the technical term for joining texts and you can use the concatenate function or the cells directly together with Ampersand (&).
+**Note:** Nesting - Putting a function inside another function or performing multiple functions in one. Use ctrl E for flash fill. Concatenation is the technical term for joining texts and you can use the concatenate function or the cells directly together with Ampersand (&).
 
 ## DAY FOUR (28 - 04 - 2025)
 
