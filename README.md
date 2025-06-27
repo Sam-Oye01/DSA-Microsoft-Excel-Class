@@ -342,4 +342,9 @@ The code for numbers formatting is # or 0.
 | removal of 3 digits | #,##.00, |
 | removal of 9 digits with "bn" affix | #,###.00,,, "bn" |
 
+``` Dashboard ```
+
+[Download Dashboard here](https://github.com/user-attachments/assets/ccda4026-2c27-4620-b988-5e00dc915e48)
+
+
 **Note** : To turn a pivot table to a chart, use Alt F1. 
