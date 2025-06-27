@@ -314,7 +314,6 @@ The Layout group on the design tabs helps to play around with the displays on th
 
 Excel File for the class: [Download here](https://github.com/user-attachments/files/20952054/Pivot.Tables.File.xlsx)
 
-
 ## DAY EIGHT (07 - 05 - 2025)
 
 ### Pivot Table II
@@ -344,7 +343,8 @@ The code for numbers formatting is # or 0.
 
 ``` Dashboard ```
 
-[Download Dashboard here](https://github.com/user-attachments/assets/ccda4026-2c27-4620-b988-5e00dc915e48)
+    [Download Dashboard](https://github.com/user-attachments/assets/ccda4026-2c27-4620-b988-5e00dc915e48)
 
+Excel File for the class: [Download here](https://github.com/user-attachments/files/20952326/Pivot.Tables.File.Dashboard.xlsx)
 
 **Note** : To turn a pivot table to a chart, use Alt F1. 
