@@ -298,6 +298,48 @@ Excel File for the class : [Download here}(https://github.com/user-attachments/f
 
 ### Introduction to Pivot Table I
 
+Today, we delved into data summarization, and visualization in Excel using Pivot Tables and charts. 
+
+**PIVOT Table**
+
+It is a data summarization tool found at the far left of the Insert tab. After creation of pivot table, the pivot table fields is use to manipulate the table to yield any desired outcome. There are mainly four fields, which are: FILTER FIELD, COLUMN FIELD, ROW FIELD and VALUE field.
+
+Quantitative data are filled in the value field while Qualititative data are filled in the row or column field. 
+
+The Pivot table analyze and design tabs can be used to edit the tables created. These tabs are called contextual tab because they only appear depending on what is to be done on Excel.
+
+The Layout group on the design tabs helps to play around with the displays on the pivot table. 
+
+**Note** : Ctrl 0 is used to hide rows and columns in excel while ctrl - is used to unhide. It can also be done using a right click and navigating down to hide columns or rows.
+
+Excel File for the class: [Download here](https://github.com/user-attachments/files/20952054/Pivot.Tables.File.xlsx)
+
+
 ## DAY EIGHT (07 - 05 - 2025)
 
 ### Pivot Table II
+
+Today, we rounded off beginner classes on analysis using Microsoft Excel. We learnt on building Dashboards in Excel.
+
+**Building Dashboards in Excel**
+
+- The first thing to note is to remove the grid lines on the Excel interface.
+
+- Then create a text box for the title.
+
+- Finally convert the tables to appropriate charts for visualization.
+
+**Custom Formatting**
+
+It is a way of formatting the displays on excel exactly how it is intended to appear. The shortcut for Custom formatting is ctrl 1. Custom formatting doesn't change the actual number but is only used to view the number in a different way.
+
+The code for numbers formatting is # or 0.
+
+| Formatting | Code |
+| :------: | :---: |
+| Thousand seperators | #,## |
+| Two decimal places | #,##.00 |
+| removal of 3 digits | #,##.00, |
+| removal of 9 digits with "bn" affix | #,###.00,,, "bn" |
+
+**Note** : To turn a pivot table to a chart, use Alt F1. 
