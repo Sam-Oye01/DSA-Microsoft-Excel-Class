@@ -214,12 +214,14 @@ It returns TRUE if all its arguments evaluate to TRUE, and returns FALSE if one 
     OR(logical1, [logical2], ...)
     AND(logical1, [logical2], ...)
     
-Excel file for the class : 1. [Download here](https://github.com/user-attachments/files/20910393/IF.Function.xlsx)
-                           2. [Download here](https://github.com/user-attachments/files/20910420/Excel.Functions.3.-.Conditionals.xlsx)
+Excel file for the class : 
+1. [Download here](https://github.com/user-attachments/files/20910393/IF.Function.xlsx)
+
+2. [Download here](https://github.com/user-attachments/files/20910420/Excel.Functions.3.-.Conditionals.xlsx)
 
 ## DAY FIVE (30 - 04 - 2025)
 
-### Excel Functions 4(Dates)
+### Excel Functions 4 (Dates)
 
 Today, We looked at the different functions associated with Dates. The following functions were treated.
 
@@ -341,9 +343,7 @@ The code for numbers formatting is # or 0.
 | removal of 3 digits | #,##.00, |
 | removal of 9 digits with "bn" affix | #,###.00,,, "bn" |
 
-``` Dashboard ```
-
-    [Download Dashboard](https://github.com/user-attachments/assets/ccda4026-2c27-4620-b988-5e00dc915e48)
+[Download Dashboard](https://github.com/user-attachments/assets/ccda4026-2c27-4620-b988-5e00dc915e48)
 
 Excel File for the class: [Download here](https://github.com/user-attachments/files/20952326/Pivot.Tables.File.Dashboard.xlsx)
 
