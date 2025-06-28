@@ -253,7 +253,7 @@ The IS functions checks the specified value and returns TRUE or FALSE depending 
 
 **Note:** A volatile function is a function that updates itself as time progresses. Excel only recognises two things; a text and a number, and also behind the serial numbers of date there is a number that excel recognises which is counted from 01/01/1900. Always work with the data formatting control on the ribbon interface according to what is needed. 
 
-Excel file for the class [Download here](https://github.com/user-attachments/files/20911208/Excel.Functions.4.-.Dates.xlsx)
+Excel file for the class : [Download here](https://github.com/user-attachments/files/20911208/Excel.Functions.4.-.Dates.xlsx)
 
 ## DAY SIX (01 - 05 - 2025)
 
@@ -314,7 +314,7 @@ The Layout group on the design tabs helps to play around with the displays on th
 
 **Note** : Ctrl 0 is used to hide rows and columns in excel while ctrl - is used to unhide. It can also be done using a right click and navigating down to hide columns or rows.
 
-Excel File for the class: [Download here](https://github.com/user-attachments/files/20952054/Pivot.Tables.File.xlsx)
+Excel File for the class : [Download here](https://github.com/user-attachments/files/20952054/Pivot.Tables.File.xlsx)
 
 ## DAY EIGHT (07 - 05 - 2025)
 
@@ -345,6 +345,6 @@ The code for numbers formatting is # or 0.
 
 [Download Dashboard](https://github.com/user-attachments/assets/ccda4026-2c27-4620-b988-5e00dc915e48)
 
-Excel File for the class: [Download here](https://github.com/user-attachments/files/20952326/Pivot.Tables.File.Dashboard.xlsx)
+Excel File for the class : [Download here](https://github.com/user-attachments/files/20952326/Pivot.Tables.File.Dashboard.xlsx)
 
 **Note** : To turn a pivot table to a chart, use Alt F1. 
