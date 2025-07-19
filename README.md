@@ -348,3 +348,6 @@ The code for numbers formatting is # or 0.
 Excel File for the class : [Download here](https://github.com/user-attachments/files/20952326/Pivot.Tables.File.Dashboard.xlsx)
 
 **Note** : To turn a pivot table to a chart, use Alt F1. 
+
+![Pivot Tables File Dashboard_page-0001](https://github.com/user-attachments/assets/576809dd-bd96-4faa-a73f-240af712ffd3)
+
